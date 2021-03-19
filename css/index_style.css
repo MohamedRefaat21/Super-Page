@@ -1,0 +1,81 @@
+body 
+{
+    font-family: 'Hammersmith One', sans-serif;
+}
+.home
+{
+    height: 100vh;
+    background-image: url(../img/bg.jpg);
+    background-size: 100% 100%;
+}
+
+.caption
+{
+    margin-left: 10%;
+    padding-top: 15%;
+}
+.caption h1
+{
+    font-size: 60px;
+    letter-spacing: 4px;
+    width: 30%;
+}
+#one 
+{
+    height: 100vh;
+    background-image: url(../img/bg12.jpg);
+    background-size: 100% 100%;
+}
+.col-md-4 img 
+{
+    width: 50%;
+}
+#two
+{
+    text-align: center;
+    height: 100vh;
+    background-image: url(../img/bg12.jpg);
+    background-size: 100% 100%;
+}
+
+.val p 
+{
+    margin-left: 25%;
+}
+.box
+{
+    max-width: 700px;
+    height: 430px;
+    padding: 45px 35px;
+    margin: 50px auto 25px;
+    position: relative;
+    width: 70%;
+    background-color: #050c1456;
+    box-shadow: 0 0 40px rgba(0, 0, 0, 0.05);
+}
+.C 
+{
+    color: goldenrod;
+}
+
+i:hover
+{
+    color: white;
+}
+#end
+{
+    height: 100vh;
+    background-image: url(../img/bg12.jpg);
+    background-size: 100% 100%;   
+}
+.price
+{
+     width: 150;
+    height: 340px;
+    padding: 45px 35px;
+    margin: 50px auto 25px;
+    position: relative;
+    width: 100%;
+    background-color:rgba(0, 0, 0, 0.05);
+    box-shadow: 0 0 40px rgba(18, 118, 158, 0.781);
+}
